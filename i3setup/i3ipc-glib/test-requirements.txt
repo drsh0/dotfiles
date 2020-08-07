@@ -1,4 +1,0 @@
-pytest
-enum-compat
-yapf
-vext.gi
